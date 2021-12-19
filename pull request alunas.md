@@ -10,3 +10,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Natália Lavarda](https://github.com/natalia-lavarda)
 
 [Bianca Malta](https://github.com/BiancaMalta)
+
+[Andréa Aline] (https://github.com/andrea-aline)
