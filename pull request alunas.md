@@ -11,4 +11,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Bianca Malta](https://github.com/BiancaMalta)
 
-[Erika Sena] (https://github.com/erikasena)
+[Erika Sena](https://github.com/erikasena)
