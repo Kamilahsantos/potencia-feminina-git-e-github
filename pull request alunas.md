@@ -6,7 +6,8 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Daniela Farina](https://github.com/AlNULlNDALE)
 
-
 [Natália Lavarda](https://github.com/natalia-lavarda)
 
 [Bianca Malta](https://github.com/BiancaMalta)
+
+[Tais Francisco](https://github.com/tsfranc)
