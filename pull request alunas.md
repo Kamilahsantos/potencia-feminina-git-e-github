@@ -11,4 +11,7 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Bianca Malta](https://github.com/BiancaMalta)
 
+
+[Adriana Casadei](https://github.com/dricasadei)
+
 [Isabela Mouzinho](https://github.com/itmouzinho)
