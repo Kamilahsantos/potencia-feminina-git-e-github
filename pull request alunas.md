@@ -11,7 +11,10 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Bianca Malta](https://github.com/BiancaMalta)
 
+[Barbara Manjko](https://github.com/BManjko)
+
 [Patricia Duran](https://github.com/PatriciaDuran)
+
 [Emily Rodrigues](https://github.com/EmilyRodrigues17)
 
 [Paloma Almeida](https://github.com/Paaloma)
