@@ -1,1 +1,5 @@
 ## notas de aula da aula 3
+
+3.Clonando um repositório já existente - Nesta aula você irá aprender a clonar umrepositório já existente no GitHub
+
+Aulas:1.Criando um repositório local - Nesta aula você irá aprender a criar um repositóriolocalmente2.Conectando seu repositório local com um remoto no GitHub - Nesta aula você iráaprender a vincular seu repositório local a um repositório no GitHub3.Clonando um repositório já existente - Nesta aula você irá aprender a clonar umrepositório já existente no GitHub4.Comandos mais utilizados: git status - Nesta aula você irá aprender o comando gitstatus5.Comandos mais utilizados: git add - Nesta aula você irá aprender o comando git add6.Comandos mais utilizados: git commit - Nesta aula você irá aprender o comando gitcommit7.Comandos mais utilizados: git push e pull - Nesta aula você irá aprender oscomandos git push e git pul
