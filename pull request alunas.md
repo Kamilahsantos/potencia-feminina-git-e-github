@@ -22,3 +22,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Adriana Casadei](https://github.com/dricasadei)
 
 [Isabela Mouzinho](https://github.com/itmouzinho)
+
+[Kamila Dos Santos Silva](https://github.com/kamilasst)
