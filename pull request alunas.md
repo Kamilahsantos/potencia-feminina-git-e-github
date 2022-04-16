@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Mariana Moreira G Sousa](https://github.com/MarianaMGSousa)
+[Mariana M G Sousa](https://github.com/MarianaMGSousa)
