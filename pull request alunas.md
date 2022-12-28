@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-Julia Bustamante (https://github.com/juliabsilva)
+[Julia Bustamante](https://github.com/jubsilva)
