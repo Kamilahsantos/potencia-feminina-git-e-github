@@ -25,5 +25,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Victória Medeiros S Macedo] (https://github.com/victoriamsm)
+[Victória Medeiros S Macedo](https://github.com/victoriamsm)
 
