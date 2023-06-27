@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Natalia Volpi] (https://github.com/nataliavolpi)
+[Natalia Volpi](https://github.com/nataliavolpi)
