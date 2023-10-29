@@ -8,9 +8,11 @@
 ### módulo1
 ### módulo2
 ### módulo3
-### módulo4
+### módulo4 - a
 ### módulo5
 ### módulo6
+
+novo
 
 
 Conceitos aprendidos nesse curso : conceitos de iniciais de git, github e versionamento, comandos mais utilizados, trabalhar com branchs, fazer pull requests, colaborar com projetos de outras pessoas e gerenciar issues e pull requests com o github projects.
