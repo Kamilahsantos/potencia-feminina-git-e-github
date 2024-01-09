@@ -18,9 +18,11 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Emily Rodrigues](https://github.com/EmilyRodrigues17)
 
 [Paloma Almeida](https://github.com/Paaloma)
-
+ 
 [Adriana Casadei](https://github.com/dricasadei)
 
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Laura Perroni](https://github.com/lauraperroni)
