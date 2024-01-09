@@ -1,11 +1,12 @@
-### usuário no github 
+### usuário no github
 
-Informe seu nome e usuário do github, vamos fortalecer a nossa rede! 
+Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Kamila Santos](https://github.com/kamilahsantos)
 
-[Daniela Farina](https://github.com/AlNULlNDALE)
+[Carolina Sanches](https://github.com/CarolinaSanches24)
 
+[Daniela Farina](https://github.com/AlNULlNDALE)
 
 [Natália Lavarda](https://github.com/natalia-lavarda)
 
