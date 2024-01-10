@@ -5,6 +5,7 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Kamila Santos](https://github.com/kamilahsantos)
 
 [Carolina Sanches](https://github.com/CarolinaSanches24)
+[Linkedin](https://www.linkedin.com/in/carol-sanches-moraes/)
 
 [Daniela Farina](https://github.com/AlNULlNDALE)
 
