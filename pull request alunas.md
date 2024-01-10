@@ -24,4 +24,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Simone Braghin](https://github.com/SimoneBraghin/)
+[Simone Braghin](https://github.com/SimoneBraghin/) 
