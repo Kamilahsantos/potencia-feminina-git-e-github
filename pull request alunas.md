@@ -24,3 +24,7 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Priscila Nakayama](https://github.com/PuriNakayama)
+
+
