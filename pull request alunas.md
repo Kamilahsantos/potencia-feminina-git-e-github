@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Caroline Rossafa](https://github.com/CRossafa)
+[Caroline M S Rossafa](https://github.com/CRossafa)
