@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Maite Haramoni Soares](https://github.com/maiharamoni)
+[Mai Haramoni Soares](https://github.com/maiharamoni)
