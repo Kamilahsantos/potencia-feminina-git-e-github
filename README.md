@@ -5,7 +5,7 @@
 ## repositorio do curso ministrado para o projeto potencia feminina
 
 
-### módulo1
+### Módulo 1
 #### Conceitos inicias
 - Conheça a instrutora
 - Glossário Git & GitHub
@@ -37,15 +37,21 @@ Conceitos iniciais: pull request
 
 Final do módulo 1
 
-### módulo2
+### Módulo 2
 #### Criando seu primeiro repositório e aprendendo os comandos mais utilizados
-### módulo3
+### Módulo 3
 #### Trabalhando com Branchs
-### módulo4
+### módulo 4
 #### Colaborando com projetos de de outras pessoas
-### módulo5
+### Módulo 5
 #### Conhhecendo o GitHub Project
-### módulo6
+### Módulo 6
+- Revisão 1:  
+Criando um repositório, adicionando mudanças e subindo para o GitHub
+- Revisão 2:  
+Clonando um repositório, criando uma nova branch, adicionando suas alterações, fazendo um pull request
+- Lidando com os erros mais comuns:  
+Erro ao dar push para um repositório
 #### Revisão e dicas
 
 
