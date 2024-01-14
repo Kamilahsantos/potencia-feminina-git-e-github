@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Caroline T Silva](https://github.com/braincorebr)
+[Caroline T Silva](https://github.com/braincorebr) 
