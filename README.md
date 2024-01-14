@@ -35,6 +35,8 @@ Conceitos iniciais: fork
 Conceitos iniciais: pull request
 - Quiz módulo 1
 
+Final do módulo 1
+
 ### módulo2
 #### Criando seu primeiro repositório e aprendendo os comandos mais utilizados
 ### módulo3
