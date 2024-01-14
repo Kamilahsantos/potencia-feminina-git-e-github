@@ -53,7 +53,7 @@ Clonando um repositório, criando uma nova branch, adicionando suas alterações
 - Lidando com os erros mais comuns:  
 Erro ao dar push para um repositório
 #### Revisão e dicas
-
+Conteúdo adicional de revisão e dicas para melhorar processos e usos com Git e Github
 
 Conceitos aprendidos nesse curso : conceitos de iniciais de git, github e versionamento, comandos mais utilizados, trabalhar com branchs, fazer pull requests, colaborar com projetos de outras pessoas e gerenciar issues e pull requests com o github projects.
 
