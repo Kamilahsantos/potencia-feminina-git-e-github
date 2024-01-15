@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Isadora Bagatini](https://github.com/IsahBag)
+[Isadora  Bagatini](https://github.com/IsahBag) 
