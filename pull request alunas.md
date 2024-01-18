@@ -24,3 +24,6 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Angela F P Baptista](https://github.com/anbaptista) 
+obs. Sou a Angela, no meu primeiro BootCamp, transição de carreira. Amando as aulas.
