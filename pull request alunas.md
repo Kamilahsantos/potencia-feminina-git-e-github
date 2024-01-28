@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Alba De Simas](https://github.com/Alba-Gigi-DataAnalytics).
+[Alba De Simas](https://github.com/Alba-Gigi-DataAnalytics)
