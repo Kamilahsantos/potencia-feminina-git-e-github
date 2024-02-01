@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)]
 
-[Michelle de Luca] (https://github.com/michellebl)
+[Michelle de Luca](https://github.com/michellebl)
