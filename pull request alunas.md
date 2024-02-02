@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Lidia Perside](https://github.com/lidiaperside)
+[Lidia Perside](https://github.com/lidiaperside) 
