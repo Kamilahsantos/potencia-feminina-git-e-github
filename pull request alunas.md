@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Naiara da Gama Fiamoncini] (https://github.com/naiaragama)
+[Naiara da Gama Fiamoncini](https://github.com/naiaragama)
