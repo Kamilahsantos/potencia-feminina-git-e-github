@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Jullia Fernandes](https://github.com/JulliaFernandes)
+[Jullia Fernandes Felizardo ](https://github.com/JulliaFernandes)
