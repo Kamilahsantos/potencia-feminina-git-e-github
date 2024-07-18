@@ -6,7 +6,6 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Daniela Farina](https://github.com/AlNULlNDALE)
 
-
 [Natália Lavarda](https://github.com/natalia-lavarda)
 
 [Bianca Malta](https://github.com/BiancaMalta)
@@ -24,3 +23,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Ana Pires | Ana Kharo](https://github.com/ana-kharo)
