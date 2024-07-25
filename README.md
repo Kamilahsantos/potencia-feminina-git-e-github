@@ -2,7 +2,7 @@
 
 
 
-## repositorio do curso ministrado para o projeto potencia feminina
+## Repositorio do curso ministrado para o projeto Potencia Feminina
 
 
 ### módulo1
