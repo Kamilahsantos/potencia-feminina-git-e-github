@@ -25,4 +25,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Ana Clara Mariani] (https://github.com/anaclarabmariani) 
+[Ana Clara Mariani](https://github.com/anaclarabmariani) 
