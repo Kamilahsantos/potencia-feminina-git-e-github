@@ -24,3 +24,5 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Jessica Mayara Ferreira Pessoa](https://github.com/pessoajess)
