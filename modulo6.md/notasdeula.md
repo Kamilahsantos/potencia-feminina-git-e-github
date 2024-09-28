@@ -8,4 +8,9 @@ criem issue para esse exercicio
 
 adicionem ela  no seu projeto do github projects
 
+alterando revisão de fork
+git status
+git add .
+git commit -m "ajustes review"
+git push
 

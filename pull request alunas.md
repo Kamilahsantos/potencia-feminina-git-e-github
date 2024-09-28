@@ -19,8 +19,11 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Paloma Almeida](https://github.com/Paaloma)
 
+
 [Adriana Casadei](https://github.com/dricasadei)
 
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
 [Esther W Lucena](https://github.com/estherwl)
+
+[Sarah Jorge Affonco](https://github.com/sarahaffonco)
